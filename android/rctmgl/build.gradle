@@ -35,8 +35,8 @@ dependencies {
     implementation "com.facebook.react:react-native:+"
 
     // Mapbox SDK
-    implementation 'com.mapbox.mapboxsdk:mapbox-sdk-services:5.1.0'
-    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:9.1.0'
+    implementation 'com.mapbox.mapboxsdk:mapbox-sdk-services:5.2.1'
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0'
     implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.8.0'
 
     // Dependencies
